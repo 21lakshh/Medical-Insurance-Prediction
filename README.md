@@ -4,13 +4,13 @@ A medical insurance prediction ML model typically aims to predict the cost of an
 ### **Features**  
 The dataset includes property attributes such as:  
 
--age 
--sex 
--bmi 
--children 
--smoker 
--region 
--charges 
+- age 
+- sex 
+- bmi 
+- children 
+- smoker 
+- region 
+- charges 
 
 #### **Approach**
 **Data analysis** : Pie charts to check gender distribution, smoker distribution and regional distribution among people, histogram to check BMI distribution among people and checking children distribution among families. 

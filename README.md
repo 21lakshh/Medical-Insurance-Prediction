@@ -13,7 +13,7 @@ The dataset includes property attributes such as:
 - charges 
 
 #### **Approach**
-**Data analysis** : Pie charts to check gender distribution, smoker distribution and regional distribution among people, histogram to check BMI distribution among people and checking children distribution among families. 
+**Data analysis** : Pie charts to check gender distribution, smoker distribution and regional distribution among people, histogram to check BMI distribution among people and checking children distribution among families.  
 **Data Preprocessing** : Had no missing values, Encoded categorical features like sex, smoker and region into numeric values. 
 **Model Selection**: Tested Linear regression model 
 **Evaluation** : R² Score for accuracy.

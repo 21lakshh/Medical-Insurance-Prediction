@@ -13,7 +13,6 @@ The dataset includes property attributes such as:
 - region 
 - charges
 
----
 ## Exploratory Data Analysis (EDA)
 The dataset was analyzed using various visualizations:
 - **Pie Charts**:
